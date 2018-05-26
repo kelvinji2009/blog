@@ -1,3 +1,7 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "public"]
+	path = public
+	url = git@github.com:kelvinji2009/kelvinji2009.github.io.git
+	branch = master
